@@ -8,9 +8,10 @@ Streamlit web-app for a weather forecast predictor using Python.
 <p align="justify"> For temperatures, a line graph is displayed which gives a plot of the temperature on a particular date. The user can understand and visualize the temperature variation. For a sky forecast, images of the sky condition are rendered as per the time period.</p>
 
 ## Implementation:
-<p align="justify"> The followed libraries have been utilized: 1. Streamlit <br/> 2. Plotly Express <br/> 3. Pillow <br/> </p>
+<p align="justify"> The followed libraries have been utilized:<br/> 1. Streamlit <br/> 2. Plotly Express <br/> 3. Pillow <br/> </p>
 
-<p align="justify"> The installation commands are:</p>
-pip install streamlit
-pip install plotly
-pip install Pillow
+<p align="justify"> The installation commands are:
+                                                    pip install streamlit  <br/>
+                                                    pip install plotly     <br/>
+                                                    pip install Pillow     <br/>
+</p>
