@@ -32,10 +32,10 @@ if place:
             st.plotly_chart(figure)
             
         if option == "Sky":
-            images = {"Clear":"C:/Users/Krishna/OneDrive/Desktop/clear.png",
-                      "Clouds":"C:/Users/Krishna/OneDrive/Desktop/cloud.png",
-                      "Rain":"C:/Users/Krishna/OneDrive/Desktop/rain.png",
-                      "Snow":"C:/Users/Krishna/OneDrive/Desktop/snow.png"}
+            images = {"Clear":"clear.png",
+                      "Clouds":"cloud.png",
+                      "Rain":"rain.png",
+                      "Snow":"snow.png"}
             sky_conditions = [dict["weather"][0]["main"] for dict in filtered_data]
             #st.write(sky_conditions)
             for condition in sky_conditions:
