@@ -15,6 +15,9 @@ Streamlit web-app for a weather forecast predictor using Python.
                                                   pip install plotly <br/>
                                                   pip install Pillow <br/></center>
 
+### API Key: The OpenWeather.org API Key has been used to build the weather forecast predictor.
+<p align="justify"> The API filtered by city name has been used. A backend function has been developed to facilitate the processing of user requests and serve the corresponding responses.</p>
 
+## Screenshots:
 
 </p>
