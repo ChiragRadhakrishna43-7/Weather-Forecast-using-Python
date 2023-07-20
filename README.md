@@ -13,11 +13,12 @@ Streamlit web-app for a weather forecast predictor using Python.
 <p align="justify"> <b>The installation commands are: </b><br/>
                                                   <center>pip install streamlit <br/>
                                                   pip install plotly <br/>
-                                                  pip install Pillow <br/></center>
+                                                  pip install Pillow <br/></center></p>
 
 ### API Key: The OpenWeather.org API Key has been used to build the weather forecast predictor.
 <p align="justify"> The API filtered by city name has been used. A backend function has been developed to facilitate the processing of user requests and serve the corresponding responses.</p>
 
 ## Screenshots:
+![1](https://github.com/ChiragRadhakrishna43-7/Weather-Forecast-using-Python/assets/121251823/a15e2175-4def-466c-992f-5fc6155d64d7)
 
-</p>
+<p align="justify"> The above image shows the line graph that gives the temperature forecast. The slidre can be adjusted to determin the number of days for display.</p>
