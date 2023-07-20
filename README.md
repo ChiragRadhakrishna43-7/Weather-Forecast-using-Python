@@ -22,3 +22,7 @@ Streamlit web-app for a weather forecast predictor using Python.
 ![1](https://github.com/ChiragRadhakrishna43-7/Weather-Forecast-using-Python/assets/121251823/a15e2175-4def-466c-992f-5fc6155d64d7)
 
 <p align="justify"> The above image shows the line graph that gives the temperature forecast. The slidre can be adjusted to determin the number of days for display.</p>
+
+![2](https://github.com/ChiragRadhakrishna43-7/Weather-Forecast-using-Python/assets/121251823/37dec27f-b0e8-4f41-a965-81fe4d52f3b9)
+
+<p align="justify"> The above image shows the images that help represent the sky forecast. The slidre can be adjusted to determin the number of days for display.</p>
