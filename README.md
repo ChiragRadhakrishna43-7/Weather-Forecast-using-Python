@@ -11,6 +11,10 @@ Streamlit web-app for a weather forecast predictor using Python.
 <p align="justify"> The followed libraries have been utilized:<br/> 1. Streamlit <br/> 2. Plotly Express <br/> 3. Pillow <br/> </p>
 
 <p align="justify"> <b>The installation commands are: </b><br/>
-                                                  !pip install streamlit plotly Pillow
+                                                  pip install streamlit <br/>
+                                                  pip install plotly <br/>
+                                                  pip install Pillow <br/>
+
+
 
 </p>
